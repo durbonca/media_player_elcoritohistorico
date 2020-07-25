@@ -273,4 +273,6 @@ a.plyr__controls__item.plyr__control:hover,
 
 .cover_album>img {
     border-radius: 5%;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
 }
