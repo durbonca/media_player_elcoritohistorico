@@ -10,8 +10,8 @@ html,
 body {
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
-    background-color: #0665a2;
-    color: #fff;
+    background-color: #fff;
+    color: #0665a2;
     font-size: 1rem;
     font-family: "Oxygen", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
@@ -51,7 +51,7 @@ body {
 ================================================== */
 
 p {
-    color: #fff;
+    color: #0665a2;
     display: block;
     font-size: .9rem;
     font-weight: 400;
@@ -186,13 +186,13 @@ audio {
 .plSel,
 .plSel:hover {
     background-color: rgba(0, 0, 0, .1);
-    color: #fff;
+    color: #0665a2;
     cursor: default !important;
 }
 
 #tracks a {
     border-radius: 3px;
-    color: #fff;
+    color: #0665a2;
     cursor: pointer;
     display: inline-block;
     font-size: 2.3rem;
@@ -211,7 +211,7 @@ audio {
 #tracks a:hover,
 #tracks a:active {
     background-color: rgba(0, 0, 0, .1);
-    color: #fff;
+    color: #0665a2;
 }
 
 #tracks a::-moz-focus-inner {
@@ -226,7 +226,7 @@ audio {
 .plyr--audio .plyr__controls {
     background-color: transparent;
     border: none;
-    color: #fff;
+    color: #0665a2;
     padding: 20px 20px 20px 13px;
     width: 100%;
 }
